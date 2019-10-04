@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/puzzjo/static/css/main.7279882f.chunk.css",
-    "main.js": "/puzzjo/static/js/main.b6330270.chunk.js",
-    "main.js.map": "/puzzjo/static/js/main.b6330270.chunk.js.map",
+    "main.js": "/puzzjo/static/js/main.0640b94c.chunk.js",
+    "main.js.map": "/puzzjo/static/js/main.0640b94c.chunk.js.map",
     "runtime-main.js": "/puzzjo/static/js/runtime-main.e01b32a9.js",
     "runtime-main.js.map": "/puzzjo/static/js/runtime-main.e01b32a9.js.map",
-    "static/js/2.4a3b2bfa.chunk.js": "/puzzjo/static/js/2.4a3b2bfa.chunk.js",
-    "static/js/2.4a3b2bfa.chunk.js.map": "/puzzjo/static/js/2.4a3b2bfa.chunk.js.map",
+    "static/js/2.4feed950.chunk.js": "/puzzjo/static/js/2.4feed950.chunk.js",
+    "static/js/2.4feed950.chunk.js.map": "/puzzjo/static/js/2.4feed950.chunk.js.map",
     "index.html": "/puzzjo/index.html",
-    "precache-manifest.2c506875ffcfe134e59872081d2384ba.js": "/puzzjo/precache-manifest.2c506875ffcfe134e59872081d2384ba.js",
+    "precache-manifest.3e2b695a7068cf61b955e88db876cd70.js": "/puzzjo/precache-manifest.3e2b695a7068cf61b955e88db876cd70.js",
     "service-worker.js": "/puzzjo/service-worker.js",
     "static/css/main.7279882f.chunk.css.map": "/puzzjo/static/css/main.7279882f.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.e01b32a9.js",
-    "static/js/2.4a3b2bfa.chunk.js",
+    "static/js/2.4feed950.chunk.js",
     "static/css/main.7279882f.chunk.css",
-    "static/js/main.b6330270.chunk.js"
+    "static/js/main.0640b94c.chunk.js"
   ]
 }
