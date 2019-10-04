@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+
+.container {
+  width: 100%;
+}
+
+.container > div:first-child {
+  width: 1160px;
+  margin: 0 auto;
+}
+
+button {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 16px;
+  background: none;
+  color: white;
+}

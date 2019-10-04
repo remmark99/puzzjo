@@ -1,0 +1,19 @@
+.header-container {
+    height: 150px;
+    background-color: #121214;
+}
+
+.header {
+    padding: 60px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header img {
+    padding-right: 140px;
+}
+
+.navigation {
+    padding-right: 40px;
+}
