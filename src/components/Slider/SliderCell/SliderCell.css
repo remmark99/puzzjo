@@ -1,0 +1,42 @@
+.carousel-cell {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.heading {
+    color: white;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 78px;
+    max-width: 460px;
+}
+
+.text {
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 460px;
+    margin-top: 30px;
+}
+
+.buttons {
+    margin-top: 50px;
+}
+
+.button {
+    font-weight: 700;
+    border-radius: 5px;
+    background-color: transparent;
+    padding: 25px;
+}
+
+.button:first-child {
+    margin-right: 15px;
+}
+
+.arrow {
+    margin-left: 10px;
+    line-height: 100%;
+}
