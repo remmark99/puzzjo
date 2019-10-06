@@ -1,0 +1,25 @@
+.slider-container {
+    height: 930px;
+    background-color: #121214;
+    overflow: hidden;
+}
+
+.main-carousel {
+    padding: 230px 0 370px;
+    width: 100%;
+}
+
+.main-carousel:focus {
+    outline: none;
+}
+
+/* .slider-button {
+    top: 47%;
+    height: 20px;
+    margin-top: -10px;
+}
+
+.right {
+    transform: scale(-1);
+    left: calc(100% - 40px);
+} */
