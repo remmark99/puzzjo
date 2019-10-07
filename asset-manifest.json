@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/puzzjo/static/css/main.e6b27977.chunk.css",
-    "main.js": "/puzzjo/static/js/main.f3b0ee9a.chunk.js",
-    "main.js.map": "/puzzjo/static/js/main.f3b0ee9a.chunk.js.map",
+    "main.css": "/puzzjo/static/css/main.446f8fbb.chunk.css",
+    "main.js": "/puzzjo/static/js/main.05db17d3.chunk.js",
+    "main.js.map": "/puzzjo/static/js/main.05db17d3.chunk.js.map",
     "runtime-main.js": "/puzzjo/static/js/runtime-main.e01b32a9.js",
     "runtime-main.js.map": "/puzzjo/static/js/runtime-main.e01b32a9.js.map",
-    "static/js/2.395dba94.chunk.js": "/puzzjo/static/js/2.395dba94.chunk.js",
-    "static/js/2.395dba94.chunk.js.map": "/puzzjo/static/js/2.395dba94.chunk.js.map",
+    "static/js/2.6254d392.chunk.js": "/puzzjo/static/js/2.6254d392.chunk.js",
+    "static/js/2.6254d392.chunk.js.map": "/puzzjo/static/js/2.6254d392.chunk.js.map",
     "index.html": "/puzzjo/index.html",
-    "precache-manifest.f690f6cd2be5ed70445e22fac246f898.js": "/puzzjo/precache-manifest.f690f6cd2be5ed70445e22fac246f898.js",
+    "precache-manifest.2b1140ba22b0c04e35ad0faed2841be2.js": "/puzzjo/precache-manifest.2b1140ba22b0c04e35ad0faed2841be2.js",
     "service-worker.js": "/puzzjo/service-worker.js",
-    "static/css/main.e6b27977.chunk.css.map": "/puzzjo/static/css/main.e6b27977.chunk.css.map",
+    "static/css/main.446f8fbb.chunk.css.map": "/puzzjo/static/css/main.446f8fbb.chunk.css.map",
     "static/media/arrow.svg": "/puzzjo/static/media/arrow.8ea6b00e.svg",
     "static/media/slider-one.png": "/puzzjo/static/media/slider-one.375d8434.png",
     "static/media/slider-three.png": "/puzzjo/static/media/slider-three.ed451122.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e01b32a9.js",
-    "static/js/2.395dba94.chunk.js",
-    "static/css/main.e6b27977.chunk.css",
-    "static/js/main.f3b0ee9a.chunk.js"
+    "static/js/2.6254d392.chunk.js",
+    "static/css/main.446f8fbb.chunk.css",
+    "static/js/main.05db17d3.chunk.js"
   ]
 }

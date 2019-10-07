@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "923279fe4cbef7ca2d12d70a6f3cd005",
+    "revision": "db94a9869fb5ee0adabb4ef42612e703",
     "url": "/puzzjo/index.html"
   },
   {
-    "revision": "a3979767c00094c17e7b",
-    "url": "/puzzjo/static/css/main.e6b27977.chunk.css"
+    "revision": "576d47c7a4c1cbf2904c",
+    "url": "/puzzjo/static/css/main.446f8fbb.chunk.css"
   },
   {
-    "revision": "92e9a4b42b19d3466bcf",
-    "url": "/puzzjo/static/js/2.395dba94.chunk.js"
+    "revision": "fe854e86494f8ac55ea2",
+    "url": "/puzzjo/static/js/2.6254d392.chunk.js"
   },
   {
-    "revision": "a3979767c00094c17e7b",
-    "url": "/puzzjo/static/js/main.f3b0ee9a.chunk.js"
+    "revision": "576d47c7a4c1cbf2904c",
+    "url": "/puzzjo/static/js/main.05db17d3.chunk.js"
   },
   {
     "revision": "f810aaca9241b52f4ec1",
