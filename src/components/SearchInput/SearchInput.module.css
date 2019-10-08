@@ -1,0 +1,17 @@
+.search {
+    padding: 25px 30px;
+    width: 360px;
+    height: 60px;
+    display: block;
+    border: none;
+    background: white;
+    color: #121214;
+    font-size: 16px;
+    font-family: "IBM Plex Sans";
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.search:focus {
+    outline: none;
+}

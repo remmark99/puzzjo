@@ -5,9 +5,8 @@ import Flickity from 'flickity';
 export default class Slider extends React.Component {
     componentDidMount() {
         const elem = document.getElementsByClassName('main-carousel')[0];
-        console.log(elem);
 
-        const flkty = new Flickity( elem, {
+        new Flickity( elem, {
             // options
             cellAlign: 'left',
             autoPlay: 5000,

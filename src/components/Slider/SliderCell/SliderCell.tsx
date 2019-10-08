@@ -29,7 +29,7 @@ const SliderCell:React.FC<P> = props => {
         <div className="carousel-cell">
             {
                 props.imgRightSide ||
-                <img src={props.img} alt="Slider image"/>
+                <img src={props.img} alt="Slider svg"/>
             }
             <div>
                 <h2 className="heading">{props.heading}</h2>
@@ -53,7 +53,7 @@ const SliderCell:React.FC<P> = props => {
             </div>
             {
                 props.imgRightSide &&
-                <img src={props.img} alt="Slider image"/>   
+                <img src={props.img} alt="Slider svg"/>   
             }
         </div>
     )

@@ -1,0 +1,70 @@
+input.radio {
+    display: none;
+}
+
+input.radio:checked + label {
+    background-color: #eff2f7;
+    height: 65px;
+    border-radius: 5px 5px 0 0;
+}
+
+.container {
+    background-color: #121214;
+    height: 65px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.tabs {
+    display: flex;
+    align-items: flex-end;
+}
+
+.tab {
+    width: 260px;
+    height: 60px;
+    background-color: #00ffc4;
+    border-radius: 0 5px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #121214;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.92px;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.firstTab {
+    border-radius: 5px 0 0 0;
+}
+
+.text {
+    font-size: 14px;
+    color: #c0c8d3;
+}
+
+.text span {
+    color: white;
+}
+
+.text span:first-child {
+    color: #00ffc4;
+}
+
+.bottomContainer {
+    height: 185px;
+    background-color: #eff2f7;
+}
+
+.inputs {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
